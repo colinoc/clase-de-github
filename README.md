@@ -1,4 +1,4 @@
-clase-de-github
+clase-de-github // en la rama pasteur
 ===============
 
 Ejemplo de GitHub para la comunidad de #mejorando.la
@@ -16,11 +16,13 @@ ssh-keygen -t rsa -C "your_email@example.com"
 ssh-add ~/.ssh/id_rsa
 pbcopy < ~/.ssh/id_rsa.pub  - Pegar la llave en github
 
-git init
+Primero comandos:
+
+git init  --> Inicializa repositorio
 
 touch README
 
-git add README
+git add README  -->Añade archivo al repositorio
 
 git commit -m "mi primer commit"
 
