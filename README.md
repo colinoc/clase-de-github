@@ -1,4 +1,4 @@
-clase-de-github // en la rama pasteur
+clase-de-github // 
 ===============
 
 Ejemplo de GitHub para la comunidad de #mejorando.la
